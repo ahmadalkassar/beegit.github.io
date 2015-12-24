@@ -1,9 +1,9 @@
 # Site settings
 title: "Best Practices, Content Strategy and Technology for B2B Blogs"
-email: "mike@beegit.com"
+email: ""
 description: "Regular insight about content strategy, Markdown and writing technology to help B2B content teams generate and convert leads."
-baseurl: ""
-url: "http://blog.beegit.com"
+baseurl: "/beegit.github.io"
+
 
 # Build settings
 markdown: kramdown
